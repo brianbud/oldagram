@@ -40,7 +40,6 @@ const likesEl = document.querySelector(".likes");
 const usernameEl = document.querySelector(".caption");
 const commentEl = document.querySelector(".comment");
 
-userImgEl.src = "images/user-avatar.png";
 friendImgEl.src = `${posts[0].avatar}`;
 displayNameEl.innerHTML = `${posts[0].name}`;
 locationEl.innerHTML = `${posts[0].location}`;
