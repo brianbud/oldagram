@@ -10,6 +10,10 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+.body {
+    margin-left: 10px;
+}
+
 .display-name, .likes, .username {
     font-weight: 700;
 }
